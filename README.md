@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiv Sutar</h1>
 <h3 align="center">Computer science student | Aspiring software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shiv-Sutar&label=Profile%20views&color=0e75b6&style=flat" alt="juniordevx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shiv-Sutar&label=Profile%20views&color=0e75b6&style=flat" alt="Shiv-Sutar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniordevx" alt="juniordevx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shiv-Sutar" alt="Shiv-Sutar" /></a> </p>
 
 - 🔭 I’m currently working on **Final Year Academic Project**
 
